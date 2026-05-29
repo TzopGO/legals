@@ -1,6 +1,6 @@
 # Términos y Condiciones – TzopGo
 
-**Última actualización:** [fecha]
+**Última actualización:** 28/05/2026
 
 ---
 
