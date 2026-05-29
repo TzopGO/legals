@@ -1,12 +1,12 @@
 # Aviso de Privacidad – TzopGo
 
-**Última actualización:** [fecha]
+**Última actualización:** 28/05/2026
 
 ---
 
 ## 1. Responsable del tratamiento
 
-TzopGo, plataforma tecnológica operada por [Nombre del Responsable o Razón Social], con domicilio en Ocosingo, Chiapas, México, y correo de contacto teamtzopgo@gmail.com, es responsable del tratamiento de datos personales conforme a la legislación mexicana aplicable.
+TzopGo, plataforma tecnológica operada por TzopGo Corp, con domicilio en San Cristobal, Chiapas, México, y correo de contacto teamtzopgo@gmail.com, es responsable del tratamiento de datos personales conforme a la legislación mexicana aplicable.
 
 ---
 
