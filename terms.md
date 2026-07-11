@@ -11,6 +11,8 @@ TzopGo es una plataforma tecnológica de intermediación digital que conecta usu
 TzopGo proporciona la infraestructura tecnológica necesaria para facilitar la comunicación y coordinación entre usuarios, comercios y repartidores.
 
 TzopGo no actúa como propietario de los productos ofrecidos por los comercios afiliados, ni como prestador directo de servicios de entrega. Los comercios y repartidores participan de manera independiente dentro de la plataforma conforme a las condiciones aplicables.
+
+
 ---
 
 ## 2. Aceptación de los términos
