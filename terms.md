@@ -1,38 +1,55 @@
 # Términos y Condiciones – TzopGo
 
-**Última actualización:** 28/05/2026
+**Última actualización:** 05/07/2026
 
 ---
 
 ## 1. Identidad de la plataforma
 
-TzopGo es una plataforma tecnológica de intermediación digital que conecta usuarios, comercios y repartidores independientes para facilitar la solicitud y entrega de productos en Ocosingo, Chiapas, México.
+TzopGo es una plataforma tecnológica de intermediación digital que conecta usuarios, comercios afiliados y repartidores independientes para facilitar la solicitud, gestión y entrega de productos dentro de las zonas donde el servicio se encuentre disponible.
 
-TzopGo no es una empresa de transporte ni prestador directo de servicios de entrega.
+TzopGo proporciona la infraestructura tecnológica necesaria para facilitar la comunicación y coordinación entre usuarios, comercios y repartidores.
 
+TzopGo no actúa como propietario de los productos ofrecidos por los comercios afiliados, ni como prestador directo de servicios de entrega. Los comercios y repartidores participan de manera independiente dentro de la plataforma conforme a las condiciones aplicables.
 ---
 
 ## 2. Aceptación de los términos
 
-El uso de la plataforma implica la aceptación expresa de estos Términos y Condiciones y del Aviso de Privacidad.
+Al registrarse, acceder o utilizar la plataforma TzopGo, el usuario manifiesta haber leído, comprendido y aceptado los presentes Términos y Condiciones, así como el Aviso de Privacidad vigente.
 
-El uso de la plataforma está limitado a personas mayores de 18 años.
+El uso de la plataforma implica la aceptación de las reglas de operación, responsabilidades y condiciones aplicables al servicio.
+
+La plataforma está dirigida exclusivamente a personas mayores de 18 años. Al crear una cuenta, el usuario declara bajo protesta de decir verdad contar con la capacidad legal necesaria para aceptar estos Términos y utilizar los servicios ofrecidos por TzopGo.
+
+En caso de que una persona menor de edad utilice la plataforma proporcionando información falsa, TzopGo podrá suspender o cancelar la cuenta correspondiente conforme a sus políticas internas.
 
 ---
 
 ## 3. Descripción del servicio
 
-Los usuarios pueden solicitar productos disponibles en comercios afiliados, incluyendo alimentos, paquetes y otros bienes permitidos dentro del sistema.
+TzopGo permite a los usuarios solicitar productos ofrecidos por comercios afiliados mediante una plataforma tecnológica que facilita la comunicación, gestión del pedido y coordinación de entrega con repartidores independientes.
+
+Los productos disponibles, precios, existencia, preparación y condiciones de venta corresponden a los comercios afiliados responsables de su oferta.
+
+TzopGo podrá establecer, modificar o limitar las categorías de productos disponibles dentro de la plataforma, conforme a criterios operativos, legales o de seguridad.
+
+La disponibilidad del servicio estará sujeta a la cobertura geográfica, operación de comercios afiliados, disponibilidad de repartidores y funcionamiento de los sistemas tecnológicos involucrados.
 
 ---
 
 ## 4. Uso de la plataforma
 
-El usuario se compromete a:
-- proporcionar información verídica,
-- no realizar pedidos fraudulentos,
-- utilizar la plataforma de manera responsable,
-- respetar a repartidores y comercios.
+El usuario se compromete a utilizar la plataforma de manera responsable, legal y conforme a estos Términos y Condiciones.
+
+El usuario acepta:
+
+- Proporcionar información veraz, completa y actualizada durante el registro y uso de la plataforma.
+- Mantener la confidencialidad y seguridad de sus datos de acceso a la cuenta.
+- Utilizar la plataforma únicamente para fines lícitos y autorizados.
+- No realizar pedidos falsos, fraudulentos, abusivos o destinados a afectar la operación de TzopGo, comercios o repartidores.
+- No proporcionar información falsa, suplantar identidades o utilizar cuentas de terceros sin autorización.
+- Respetar a usuarios, comercios afiliados y repartidores durante la utilización del servicio.
+- No intentar interferir con la seguridad, funcionamiento o integridad tecnológica de la plataforma.
 
 ---
 
