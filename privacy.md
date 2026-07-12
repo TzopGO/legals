@@ -7,7 +7,7 @@
 ## 1. Responsable del tratamiento
 
 TzopGo, plataforma tecnológica operada por TzopGo Technologies, con domicilio en Tuxtla GTZ,Chiapas, México, es responsable del tratamiento de los datos personales recabados a través de la plataforma, de conformidad con la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y demás disposiciones aplicables.
-Para cualquier asunto relacionado con el tratamiento de datos personales, el ejercicio de derechos ARCO o la protección de su información personal, el titular podrá contactar a TzopGo mediante el correo electrónico: teamtzopgo@gmail.com.
+Para cualquier asunto relacionado con el tratamiento de datos personales, el ejercicio de derechos ARCO o la protección de su información personal, el titular podrá contactar a TzopGo mediante el correo electrónico: 📩 teamtzopgo@gmail.com
 
 ---
 
