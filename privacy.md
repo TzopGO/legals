@@ -18,11 +18,11 @@ Para cualquier asunto relacionado con el tratamiento de datos personales o el ej
 
 El responsable del tratamiento de los datos personales es:
 
-**Razón social:** [RAZÓN SOCIAL COMPLETA]
+**Razón social:** Tzop Technologies
 
 **Nombre comercial:** TzopGo
 
-**Domicilio:** [CALLE, NÚMERO, COLONIA, CÓDIGO POSTAL, MUNICIPIO, ESTADO, MÉXICO]
+**Domicilio:** Tuxtla Gutiérrez, Chiapas, MÉXICO
 
 **Correo electrónico para asuntos de privacidad:** [teamtzopgo@gmail.com](mailto:teamtzopgo@gmail.com)
 
