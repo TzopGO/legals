@@ -1,244 +1,785 @@
-# Términos y Condiciones – TzopGo
+# Términos y Condiciones de Uso – TzopGo
 
-**Última actualización:** 05/07/2026
-
----
-
-## 1. Identidad de la plataforma
-
-TzopGo es una plataforma tecnológica de intermediación digital que conecta usuarios, comercios afiliados y repartidores independientes para facilitar la solicitud, gestión y entrega de productos dentro de las zonas donde el servicio se encuentre disponible.
-
-TzopGo proporciona la infraestructura tecnológica necesaria para facilitar la comunicación y coordinación entre usuarios, comercios y repartidores.
-
-TzopGo no actúa como propietario de los productos ofrecidos por los comercios afiliados, ni como prestador directo de servicios de entrega. Los comercios y repartidores participan de manera independiente dentro de la plataforma conforme a las condiciones aplicables.
-
+**Última actualización:** 20/08/2026  
+**Versión:** 1.0
 
 ---
 
-## 2. Aceptación de los términos
+## 1. IDENTIDAD DE TZOPGO
 
-Al registrarse, acceder o utilizar la plataforma TzopGo, el usuario manifiesta haber leído, comprendido y aceptado los presentes Términos y Condiciones, así como el Aviso de Privacidad vigente.
+TzopGo es una plataforma tecnológica operada por **[RAZÓN SOCIAL COMPLETA]**, que facilita la interacción y coordinación entre usuarios, comercios y personas que realizan actividades de entrega mediante la plataforma, dentro de las zonas geográficas en las que TzopGo se encuentre disponible.
 
-El uso de la plataforma implica la aceptación de las reglas de operación, responsabilidades y condiciones aplicables al servicio.
+La plataforma tecnológica de TzopGo permite, entre otras funcionalidades:
 
-La plataforma está dirigida exclusivamente a personas mayores de 18 años. Al crear una cuenta, el usuario declara bajo protesta de decir verdad contar con la capacidad legal necesaria para aceptar estos Términos y utilizar los servicios ofrecidos por TzopGo.
+- recibir solicitudes de pedidos;
+- facilitar la comunicación entre los participantes;
+- proporcionar información relacionada con los pedidos;
+- facilitar la coordinación de entregas;
+- proporcionar información necesaria para realizar las entregas;
+- mostrar el estado de los pedidos;
+- registrar determinadas operaciones realizadas mediante la plataforma.
 
-En caso de que una persona menor de edad utilice la plataforma proporcionando información falsa, TzopGo podrá suspender o cancelar la cuenta correspondiente conforme a sus políticas internas.
+TzopGo no es propietaria de los productos ofrecidos por los comercios participantes, salvo que expresamente se indique lo contrario.
 
----
-
-## 3. Descripción del servicio
-
-TzopGo permite a los usuarios solicitar productos ofrecidos por comercios afiliados mediante una plataforma tecnológica que facilita la comunicación, gestión del pedido y coordinación de entrega con repartidores independientes.
-
-Los productos disponibles, precios, existencia, preparación y condiciones de venta corresponden a los comercios afiliados responsables de su oferta.
-
-TzopGo podrá establecer, modificar o limitar las categorías de productos disponibles dentro de la plataforma, conforme a criterios operativos, legales o de seguridad.
-
-La disponibilidad del servicio estará sujeta a la cobertura geográfica, operación de comercios afiliados, disponibilidad de repartidores y funcionamiento de los sistemas tecnológicos involucrados.
+Las obligaciones correspondientes a cada participante se determinarán conforme a la naturaleza de la operación, estos Términos y Condiciones y la legislación mexicana aplicable.
 
 ---
 
-## 4. Uso de la plataforma
+## 2. DEFINICIONES
 
-El usuario se compromete a utilizar la plataforma de manera responsable, legal y conforme a estos Términos y Condiciones.
+Para efectos de estos Términos y Condiciones:
 
-El usuario acepta:
+### 2.1. TzopGo o Plataforma
 
-- Proporcionar información veraz, completa y actualizada durante el registro y uso de la plataforma.
-- Mantener la confidencialidad y seguridad de sus datos de acceso a la cuenta.
-- Utilizar la plataforma únicamente para fines lícitos y autorizados.
-- No realizar pedidos falsos, fraudulentos, abusivos o destinados a afectar la operación de TzopGo, comercios o repartidores.
-- No proporcionar información falsa, suplantar identidades o utilizar cuentas de terceros sin autorización.
-- Respetar a usuarios, comercios afiliados y repartidores durante la utilización del servicio.
-- No intentar interferir con la seguridad, funcionamiento o integridad tecnológica de la plataforma.
+Se refiere a la aplicación, sitio web, sistemas, infraestructura tecnológica y demás herramientas digitales operadas por TzopGo.
 
----
+### 2.2. Usuario
 
-## 5. Ubicación
+Persona que utiliza la plataforma para consultar, solicitar o adquirir productos y, cuando corresponda, solicitar su entrega.
 
-Para facilitar la entrega de pedidos, el usuario podrá proporcionar voluntariamente una ubicación de entrega mediante la selección de un punto en el mapa dentro de la plataforma.
+### 2.3. Comercio
 
-La información de ubicación será utilizada únicamente para las finalidades relacionadas con la prestación del servicio, incluyendo la coordinación y entrega del pedido solicitado.
+Persona física o moral que ofrece productos mediante la plataforma.
 
-TzopGo podrá compartir la información necesaria con el repartidor asignado y otros participantes involucrados en la operación del pedido, conforme al Aviso de Privacidad vigente.
+### 2.4. Repartidor
 
-El usuario será responsable de proporcionar una ubicación correcta y suficiente para permitir la entrega adecuada del pedido.
+Persona que participa mediante la plataforma en actividades relacionadas con la entrega de pedidos.
 
-TzopGo no realiza rastreo continuo de ubicación del usuario, salvo que en el futuro se implemente una funcionalidad distinta y dicha práctica sea informada mediante el Aviso de Privacidad correspondiente.
+La naturaleza jurídica de la relación entre TzopGo y el repartidor se determinará conforme a la legislación aplicable y a las circunstancias reales de la prestación.
 
----
+### 2.5. Pedido
 
-## 6. Repartidores
+Solicitud realizada mediante la plataforma para adquirir determinados productos y, cuando corresponda, coordinar su entrega.
 
-Los repartidores son personas independientes, mayores de edad, que prestan servicios de entrega de forma autónoma.
-Los repartidores que participan en la plataforma TzopGo son personas independientes que utilizan la plataforma tecnológica para recibir solicitudes de entrega de usuarios.
+### 2.6. Cuota de entrega
 
-Los repartidores administran libremente su disponibilidad, horarios, aceptación de solicitudes y rutas de entrega, conforme a sus propios criterios y responsabilidades.
+Cantidad correspondiente a la entrega de un pedido cuando ésta aplique.
 
-La participación de los repartidores dentro de la plataforma no constituye, por sí misma, una relación laboral, subordinación, representación, asociación o sociedad entre TzopGo y dichos repartidores.
+### 2.7. Cuenta
 
-Cada repartidor será responsable de:
-
-- Contar con la documentación necesaria para realizar sus actividades.
-- Mantener vigente su licencia de conducir cuando sea aplicable.
-- Cumplir con las disposiciones legales relacionadas con el uso de su vehículo.
-- Mantener su vehículo en condiciones adecuadas de operación y seguridad.
-- Cumplir con las obligaciones fiscales, administrativas o legales que correspondan a su actividad independiente.
-
-TzopGo podrá solicitar información de identificación y documentación necesaria para validar la identidad del repartidor, prevenir fraudes y mantener la seguridad de la plataforma, conforme a su Aviso de Privacidad.
+Registro individual que permite a una persona acceder y utilizar determinadas funcionalidades de la plataforma.
 
 ---
 
-## 7. Productos prohibidos
+# 3. ACEPTACIÓN DE LOS TÉRMINOS
 
-Queda prohibido utilizar la plataforma TzopGo para solicitar, vender, transportar, distribuir o gestionar productos que sean ilícitos, peligrosos, restringidos o cuya comercialización o entrega esté prohibida por la legislación mexicana aplicable.
+Al registrarse, acceder o utilizar TzopGo, el usuario manifiesta que ha tenido acceso a los presentes Términos y Condiciones y acepta quedar sujeto a ellos en lo que resulte aplicable.
 
-TzopGo podrá restringir, cancelar pedidos o suspender cuentas cuando identifique actividades que puedan representar un riesgo legal, de seguridad o de operación para la plataforma, usuarios, comercios o repartidores.
+Asimismo, el usuario reconoce haber tenido acceso al Aviso de Privacidad vigente de TzopGo.
 
-Los comercios afiliados serán responsables de garantizar que los productos ofrecidos dentro de la plataforma cumplan con la legislación aplicable y cuenten con las autorizaciones necesarias cuando correspondan.
+Cuando determinada funcionalidad requiera un consentimiento específico, TzopGo podrá solicitarlo mediante un mecanismo separado.
 
-El usuario acepta no utilizar la plataforma para fines distintos a los permitidos por estos Términos y Condiciones.
-
----
-
-## 8. Pagos y modelo económico
-
-Actualmente, los pagos correspondientes a los pedidos realizados mediante la plataforma podrán efectuarse mediante los métodos de pago disponibles e informados dentro de TzopGo.
-
-Cuando aplique el pago en efectivo, el usuario será responsable de contar con el monto necesario para cubrir el importe correspondiente al pedido.
-
-Los precios de los productos, costos adicionales, tarifas de entrega o cualquier otro cargo aplicable serán informados al usuario antes de confirmar el pedido, cuando la funcionalidad correspondiente se encuentre disponible.
-
-TzopGo podrá modificar, incorporar o habilitar nuevos métodos de pago, esquemas de comisión, tarifas o modelos económicos relacionados con la operación de la plataforma, informándolo oportunamente a los usuarios, comercios y repartidores cuando corresponda.
-
-Los pagos, comisiones o contraprestaciones entre TzopGo, comercios y repartidores podrán sujetarse a acuerdos, políticas comerciales o condiciones específicas aplicables a cada relación.
+La aceptación electrónica podrá registrarse mediante medios tecnológicos disponibles, incluyendo la fecha, hora, versión del documento y demás información técnica necesaria para acreditar la operación.
 
 ---
 
-## 9. Suspensión de cuentas
+# 4. CAPACIDAD PARA UTILIZAR LA PLATAFORMA
 
-TzopGo podrá suspender temporalmente, restringir funcionalidades o cancelar cuentas cuando exista una causa justificada relacionada con:
+TzopGo está dirigida exclusivamente a personas mayores de 18 años.
 
-- Uso fraudulento de la plataforma.
-- Proporcionar información falsa o suplantar la identidad de otra persona.
-- Incumplimiento de estos Términos y Condiciones.
-- Actividades ilícitas o prohibidas por la legislación aplicable.
-- Conductas que afecten la seguridad, integridad u operación de la plataforma.
-- Acciones que perjudiquen a usuarios, comercios afiliados, repartidores o terceros.
+Al crear una cuenta, el usuario declara que:
 
-Cuando sea posible y no exista una causa de seguridad, fraude o cumplimiento legal que lo impida, TzopGo podrá informar al usuario sobre la medida aplicada y los motivos generales de la misma.
+1. Es mayor de 18 años.
+2. Cuenta con capacidad legal para aceptar estos Términos.
+3. Proporcionará información verdadera, completa y actualizada.
+4. No utilizará información o identidad de otra persona sin autorización.
+5. Utilizará la plataforma exclusivamente para fines lícitos.
 
-La cancelación o suspensión de una cuenta no afectará las obligaciones que por su naturaleza deban permanecer vigentes, incluyendo aquellas relacionadas con pagos pendientes, responsabilidades legales, protección de datos personales o resolución de controversias.
-
----
-
-## 10. Limitación de responsabilidad
-
-TzopGo actúa como intermediario tecnológico entre usuarios, comercios y repartidores independientes.
-
-No garantiza la disponibilidad, continuidad o funcionamiento libre de errores de la plataforma ni la calidad de servicios prestados por terceros.
+TzopGo podrá suspender o cancelar una cuenta cuando existan razones justificadas para considerar que se proporcionó información falsa respecto de la edad o identidad.
 
 ---
 
-## 11. Disponibilidad geográfica
+# 5. REGISTRO DE CUENTA
 
-TzopGo actúa exclusivamente como una plataforma tecnológica de intermediación que facilita la conexión entre usuarios, comercios afiliados y repartidores independientes.
+Para utilizar determinadas funcionalidades de TzopGo será necesario crear una cuenta.
 
-TzopGo no es propietario de los productos ofrecidos por los comercios afiliados ni presta directamente los servicios de preparación, fabricación, comercialización o entrega de productos realizados por terceros.
+El usuario será responsable de proporcionar información correcta y mantenerla actualizada.
 
-Los comercios afiliados serán responsables de la calidad, características, disponibilidad, legalidad y condiciones de los productos que ofrecen dentro de la plataforma.
+Las credenciales de acceso deberán mantenerse bajo control del titular de la cuenta.
 
-Los repartidores independientes serán responsables de la ejecución de sus actividades de entrega, así como del cumplimiento de las obligaciones legales relacionadas con su participación.
+El usuario deberá comunicar a TzopGo cualquier uso no autorizado de su cuenta cuando tenga conocimiento de ello.
 
-TzopGo realizará esfuerzos razonables para mantener disponible la plataforma; sin embargo, no garantiza que el servicio funcione de manera ininterrumpida o libre de errores debido a factores fuera de su control, incluyendo fallas de internet, proveedores tecnológicos, dispositivos de usuarios o situaciones externas.
-
-La limitación de responsabilidad establecida en estos Términos no aplicará cuando exista una obligación legal que determine lo contrario.
+TzopGo podrá implementar mecanismos de autenticación adicionales cuando resulten necesarios para proteger la seguridad de la plataforma.
 
 ---
 
-## 12. Limitaciones técnicas
+# 6. FUNCIONAMIENTO DE LA PLATAFORMA
 
-TzopGo realizará esfuerzos razonables para mantener la disponibilidad y funcionamiento adecuado de la plataforma. Sin embargo, el usuario reconoce que pueden presentarse interrupciones, errores o limitaciones derivadas de factores externos o tecnológicos.
+TzopGo proporciona infraestructura tecnológica para facilitar la coordinación de pedidos y entregas.
 
-TzopGo no será responsable por afectaciones ocasionadas por:
+Dependiendo de las funcionalidades disponibles, la plataforma podrá mostrar información relacionada con:
 
-- Fallas en la conexión a internet del usuario o terceros.
-- Problemas en dispositivos, sistemas operativos o configuraciones del usuario.
-- Fallas, interrupciones o modificaciones realizadas por proveedores tecnológicos externos.
-- Mantenimientos preventivos o correctivos de la plataforma.
-- Eventos fuera del control razonable de TzopGo.
+- productos;
+- comercios;
+- precios;
+- disponibilidad;
+- ubicación;
+- cuota de entrega;
+- estado del pedido;
+- información necesaria para realizar la entrega;
+- información de contacto necesaria para completar la operación.
 
-TzopGo procurará restablecer el funcionamiento de la plataforma en el menor tiempo posible cuando existan interrupciones bajo su control.
-
----
-
-## 13. Propiedad intelectual
-
-Todos los elementos que forman parte de la plataforma TzopGo, incluyendo de manera enunciativa más no limitativa, software, código fuente, código objeto, diseño, interfaces, logotipos, marcas, nombres comerciales, contenidos, elementos gráficos, bases de datos, funcionalidades y demás componentes tecnológicos, son propiedad de TzopGo o de sus respectivos titulares y se encuentran protegidos por la legislación aplicable en materia de propiedad intelectual.
-
-El uso de la plataforma no otorga al usuario, comercio o repartidor ningún derecho de propiedad, licencia de explotación, reproducción, modificación, distribución o comercialización sobre los elementos propiedad de TzopGo, salvo autorización expresa por escrito.
-
-Queda prohibido realizar ingeniería inversa, extracción de código, copia, modificación, distribución o cualquier uso no autorizado de los elementos tecnológicos de la plataforma.
+La disponibilidad de determinadas funcionalidades podrá depender de la zona geográfica, disponibilidad de comercios, disponibilidad de repartidores, condiciones operativas y funcionamiento de los sistemas tecnológicos.
 
 ---
 
-## 14. Jurisdicción
+# 7. PEDIDOS
 
-Los presentes Términos y Condiciones se regirán e interpretarán conforme a las leyes aplicables de los Estados Unidos Mexicanos.
+El usuario podrá solicitar productos mediante las funcionalidades disponibles en la plataforma.
 
-Para la interpretación, cumplimiento y resolución de cualquier controversia relacionada con estos Términos y Condiciones, las partes se sujetarán a la jurisdicción de los tribunales competentes del Estado de Chiapas, salvo que alguna disposición legal establezca una competencia distinta o irrenunciable.
+Antes de confirmar una operación, TzopGo procurará proporcionar información relevante sobre la misma, incluyendo, cuando corresponda:
 
----
+- productos seleccionados;
+- comercio correspondiente;
+- precio;
+- cuota de entrega;
+- ubicación;
+- método de pago;
+- información adicional necesaria para completar el pedido.
 
-## 15. Aceptación de privacidad
+La confirmación electrónica del pedido podrá generar un registro de la operación.
 
-El usuario reconoce haber leído y comprendido el Aviso de Privacidad vigente de TzopGo, mediante el cual se informa la forma en que serán tratados sus datos personales, las finalidades del tratamiento, los mecanismos para ejercer sus derechos y las medidas aplicables para la protección de su información.
-
-El tratamiento de los datos personales del usuario se realizará conforme al Aviso de Privacidad y a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares y demás disposiciones aplicables.
-
-La aceptación de estos Términos y Condiciones no sustituye ni modifica el consentimiento que, en su caso, sea requerido para determinados tratamientos de datos personales.
-
----
-
-## 16. Límite de responsabilidad económica
-
-derivada directamente de la prestación de sus servicios tecnológicos estará limitada al monto efectivamente pagado por el usuario a través de la plataforma respecto del pedido específico que origine la reclamación.
-
-Esta limitación no será aplicable cuando la legislación establezca responsabilidades que no puedan ser excluidas o limitadas.
-
-TzopGo no será responsable por daños derivados de actos, productos, servicios o incumplimientos atribuibles a terceros independientes, incluyendo comercios afiliados, proveedores externos o repartidores, salvo aquellos casos en los que legalmente corresponda.
+Los derechos que legalmente correspondan al consumidor prevalecerán sobre cualquier disposición de estos Términos que resulte incompatible con la legislación aplicable.
 
 ---
 
-## 17. Disponibilidad de comercios
+# 8. COMERCIOS
 
-La disponibilidad de comercios, productos, precios, horarios de atención, inventario y condiciones de venta depende de los comercios afiliados que participan dentro de la plataforma.
+Los comercios participantes serán responsables de la información que proporcionen respecto de los productos que ofrecen, incluyendo, según corresponda:
 
-TzopGo facilita la conexión tecnológica entre usuarios y comercios, pero no garantiza la disponibilidad permanente de productos específicos ni controla directamente la operación comercial de terceros afiliados.
+- descripción;
+- precio;
+- disponibilidad;
+- características;
+- preparación;
+- calidad;
+- legalidad;
+- condiciones de comercialización.
 
-Los comercios afiliados serán responsables de mantener información correcta y actualizada sobre los productos ofrecidos, así como de cumplir con las disposiciones legales aplicables a sus actividades.
+Los comercios deberán cumplir las disposiciones legales aplicables a sus actividades y a los productos que comercialicen.
 
-TzopGo podrá retirar, modificar o limitar la disponibilidad de determinados comercios o productos cuando sea necesario por razones operativas, legales, de seguridad o cumplimiento normativo.
+TzopGo podrá retirar temporal o permanentemente productos o comercios de la plataforma cuando resulte necesario por razones legales, de seguridad, operación o cumplimiento normativo.
 
----
-
-## 18. MODIFICACIONES
-
-TzopGo podrá actualizar, modificar o complementar los presentes Términos y Condiciones cuando resulte necesario debido a cambios en la operación de la plataforma, incorporación de nuevas funcionalidades, modificaciones legales o mejoras en sus procesos.
-
-Las modificaciones serán publicadas mediante la plataforma, aplicación o medios oficiales de comunicación disponibles, indicando la fecha de actualización correspondiente.
-
-Cuando los cambios sean sustanciales y afecten de manera relevante las condiciones de uso del servicio, TzopGo podrá solicitar nuevamente la aceptación de los usuarios antes de continuar utilizando determinadas funcionalidades.
-
-El uso continuo de la plataforma después de la publicación de modificaciones implicará la aceptación de los Términos y Condiciones actualizados, salvo que la legislación aplicable establezca un requisito distinto.
+Lo anterior no limita las obligaciones que legalmente correspondan a TzopGo.
 
 ---
 
-## 19. CONTACTO
+# 9. REPARTIDORES
 
-Para cualquier duda, aclaración, comentario relacionado con el uso de la plataforma o comunicación con TzopGo, el usuario podrá contactar mediante:
+Las personas que realizan actividades de reparto mediante TzopGo deberán cumplir los requisitos legales aplicables y las reglas operativas de la plataforma.
 
-📩 teamtzopgo@gmail.com
+Cuando el modelo operativo correspondiente permita al repartidor determinar su disponibilidad, éste podrá:
 
-Para asuntos relacionados con el tratamiento de datos personales, solicitudes de derechos ARCO o temas de privacidad, el usuario deberá consultar los medios de contacto establecidos en el Aviso de Privacidad vigente.
+- conectarse cuando decida participar;
+- desconectarse cuando decida dejar de participar;
+- determinar cuándo se encuentra disponible;
+- permanecer inactivo;
+- aceptar o rechazar solicitudes conforme a las funcionalidades y condiciones de la plataforma.
+
+La posibilidad de conectarse y desconectarse libremente no constituye por sí misma una determinación sobre la naturaleza jurídica de la relación.
+
+La existencia o inexistencia de una relación laboral se determinará conforme a la legislación aplicable y a las circunstancias reales de la prestación.
+
+---
+
+# 10. NATURALEZA JURÍDICA DE LA RELACIÓN CON LOS REPARTIDORES
+
+Estos Términos regulan principalmente el uso de la plataforma tecnológica.
+
+La naturaleza jurídica de la relación entre TzopGo y las personas que realizan actividades mediante la plataforma se determinará conforme a la legislación aplicable.
+
+Cuando legalmente exista una relación de trabajo en plataformas digitales, ésta se regirá por las disposiciones laborales aplicables y por el instrumento correspondiente.
+
+Estos Términos de uso de la plataforma no sustituyen el contrato de trabajo que, en su caso, resulte legalmente necesario.
+
+Ninguna disposición de estos Términos deberá interpretarse como renuncia a derechos laborales reconocidos por la legislación mexicana.
+
+---
+
+# 11. FLEXIBILIDAD DE CONEXIÓN
+
+Cuando la operación de TzopGo contemple disponibilidad flexible, el repartidor podrá determinar libremente los periodos durante los cuales desea conectarse a la plataforma, conforme a las condiciones legales y operativas aplicables.
+
+TzopGo podrá registrar técnicamente determinados eventos relacionados con el uso de la plataforma, incluyendo:
+
+- conexión;
+- desconexión;
+- disponibilidad;
+- aceptación de solicitudes;
+- inicio de entrega;
+- conclusión de entrega;
+- cancelación;
+- incidencias relacionadas con el pedido.
+
+Estos registros tendrán finalidades operativas, de seguridad, atención de incidencias, cumplimiento legal y, cuando corresponda, laborales.
+
+La existencia de registros tecnológicos no deberá interpretarse por sí misma como establecimiento de un horario fijo.
+
+---
+
+# 12. SOLICITUDES DE ENTREGA
+
+Las solicitudes de entrega podrán mostrarse a los repartidores conforme al funcionamiento de la plataforma.
+
+Cuando la funcionalidad correspondiente permita aceptar o rechazar una solicitud, el repartidor podrá tomar la decisión conforme a las condiciones aplicables.
+
+Una vez aceptada una solicitud, deberán realizarse las acciones necesarias para completar la entrega, salvo que exista una causa justificada que impida hacerlo.
+
+TzopGo podrá establecer mecanismos para reportar:
+
+- imposibilidad de entrega;
+- cancelaciones;
+- incidentes;
+- problemas con el pedido;
+- situaciones de seguridad;
+- otras circunstancias que impidan completar la operación.
+
+---
+
+# 13. CUOTA DE ENTREGA
+
+Cuando la funcionalidad correspondiente esté habilitada, el repartidor podrá establecer o proponer la cuota que solicita por realizar una entrega, conforme al modelo operativo disponible en la plataforma.
+
+La cuota propuesta podrá mostrarse al usuario antes de la confirmación correspondiente.
+
+El usuario podrá aceptar o rechazar la cuota propuesta.
+
+Cuando las condiciones de la operación hayan sido aceptadas, la plataforma podrá registrar:
+
+- pedido;
+- repartidor;
+- cuota;
+- fecha;
+- hora;
+- aceptación;
+- estado de la entrega.
+
+La cuota aplicable será la que corresponda conforme a la operación confirmada.
+
+---
+
+# 14. PAGOS EN EFECTIVO
+
+Cuando la operación se encuentre habilitada bajo modalidad de pago en efectivo, el usuario deberá realizar el pago correspondiente conforme a la información mostrada y a las condiciones de la operación.
+
+Cuando corresponda, el importe podrá comprender:
+
+- precio de los productos;
+- cuota de entrega;
+- otros cargos previamente informados y legalmente aplicables.
+
+Cuando la operación establezca que el pago de la cuota de entrega se realiza directamente al repartidor, dicha circunstancia será informada al usuario antes de confirmar el pedido cuando resulte aplicable.
+
+TzopGo podrá incorporar posteriormente otros métodos de pago.
+
+---
+
+# 15. PEDIDOS PENDIENTES DE ACEPTACIÓN
+
+Cuando un pedido se encuentre pendiente de aceptación por un repartidor, podrá permanecer disponible conforme al funcionamiento de la plataforma.
+
+El pedido podrá dejar de estar disponible cuando:
+
+- sea aceptado;
+- sea cancelado;
+- expire;
+- el comercio deje de estar disponible;
+- exista una incidencia;
+- exista una razón operativa o de seguridad.
+
+La permanencia de un pedido en la plataforma no garantiza que será aceptado por un repartidor.
+
+---
+
+# 16. OBLIGACIONES DEL REPARTIDOR
+
+El repartidor deberá:
+
+- proporcionar información verdadera;
+- mantener actualizada su información;
+- acreditar su identidad cuando corresponda;
+- contar con la licencia de conducir que legalmente corresponda;
+- contar con documentación vehicular aplicable;
+- cumplir las normas de tránsito;
+- utilizar un vehículo que cumpla las condiciones legales aplicables;
+- procurar condiciones adecuadas de seguridad;
+- tratar adecuadamente los productos;
+- utilizar la información del usuario exclusivamente para realizar la entrega;
+- respetar la privacidad de los usuarios;
+- reportar incidentes mediante los mecanismos disponibles.
+
+Las obligaciones laborales, fiscales, administrativas, de seguridad social y de tránsito que correspondan serán determinadas conforme a la legislación aplicable.
+
+---
+
+# 17. REGISTRO DE REPARTIDORES
+
+Para participar como repartidor, TzopGo podrá solicitar información necesaria para identificar a la persona y verificar los requisitos aplicables.
+
+Dependiendo del modelo operativo y de los requisitos legales, podrá solicitarse información como:
+
+- nombre;
+- correo electrónico;
+- información de contacto;
+- documento de identificación;
+- licencia de conducir;
+- información del vehículo;
+- marca;
+- modelo;
+- color;
+- demás información necesaria para la operación y seguridad.
+
+La información será tratada conforme al Aviso de Privacidad vigente.
+
+---
+
+# 18. VEHÍCULO DEL REPARTIDOR
+
+Cuando el repartidor utilice motocicleta u otro vehículo para realizar entregas, será responsable de cumplir las disposiciones legales aplicables al vehículo.
+
+La información proporcionada sobre el vehículo podrá utilizarse para:
+
+- identificar el vehículo durante una entrega;
+- facilitar la seguridad del usuario;
+- facilitar la operación;
+- verificar información;
+- prevenir fraude;
+- atender incidentes.
+
+TzopGo podrá solicitar actualización de dicha información cuando resulte necesario.
+
+---
+
+# 19. INFORMACIÓN DEL USUARIO PARA LA ENTREGA
+
+Para facilitar una entrega, TzopGo podrá proporcionar al repartidor la información estrictamente necesaria para realizar el pedido.
+
+Dependiendo de la operación, podrá incluir:
+
+- ubicación;
+- referencias de entrega;
+- información necesaria para contactar al usuario;
+- información relacionada con el pedido.
+
+El repartidor deberá utilizar dicha información exclusivamente para realizar la entrega correspondiente.
+
+Queda prohibido utilizar dicha información para:
+
+- fines personales;
+- publicidad no autorizada;
+- venta de información;
+- contacto ajeno al pedido;
+- crear bases de datos propias;
+- compartirla con terceros no autorizados.
+
+---
+
+# 20. UBICACIÓN
+
+El usuario podrá proporcionar una ubicación mediante las funcionalidades disponibles en TzopGo.
+
+La ubicación proporcionada será utilizada para facilitar la prestación del servicio y la entrega del pedido correspondiente.
+
+Cuando resulte necesario, TzopGo podrá proporcionar dicha información al repartidor asignado o a otros participantes que necesiten conocerla para completar la operación.
+
+TzopGo no realizará rastreo continuo de la ubicación del usuario por el simple uso de la plataforma, salvo que implemente una funcionalidad diferente y dicha práctica sea informada conforme a la legislación aplicable.
+
+El tratamiento de los datos de ubicación se regirá por el Aviso de Privacidad vigente y por los consentimientos específicos que, en su caso, resulten necesarios.
+
+---
+
+# 21. PRODUCTOS PROHIBIDOS
+
+No podrá utilizarse TzopGo para solicitar, comercializar, transportar o distribuir productos cuya venta, posesión, transporte o distribución sea ilegal.
+
+También podrán restringirse productos que:
+
+- requieran autorizaciones especiales;
+- estén sujetos a restricciones legales;
+- representen riesgos relevantes para usuarios o repartidores;
+- puedan generar responsabilidad legal;
+- estén prohibidos por las políticas de la plataforma.
+
+TzopGo podrá cancelar o restringir operaciones cuando detecte actividades que puedan representar riesgos legales, de seguridad o de operación.
+
+---
+
+# 22. CONDUCTAS PROHIBIDAS
+
+Queda prohibido utilizar TzopGo para:
+
+- crear cuentas falsas;
+- suplantar identidades;
+- utilizar cuentas de terceros sin autorización;
+- realizar pedidos fraudulentos;
+- proporcionar información falsa;
+- manipular la plataforma;
+- alterar información;
+- acceder sin autorización a sistemas;
+- introducir código malicioso;
+- intentar obtener información de otros usuarios;
+- utilizar datos personales para fines ajenos al servicio;
+- realizar actividades ilícitas;
+- interferir deliberadamente con pedidos;
+- evadir medidas de seguridad;
+- afectar deliberadamente el funcionamiento de la plataforma.
+
+---
+
+# 23. SUSPENSIÓN O RESTRICCIÓN DE CUENTAS
+
+TzopGo podrá suspender temporalmente, restringir determinadas funcionalidades o cancelar una cuenta cuando exista una causa justificada relacionada con:
+
+- fraude;
+- suplantación de identidad;
+- información falsa;
+- actividades ilícitas;
+- riesgos de seguridad;
+- incumplimiento de estos Términos;
+- uso indebido de datos personales;
+- manipulación de la plataforma;
+- incumplimientos operativos relevantes.
+
+Cuando sea posible y no exista una razón legal, de seguridad o de prevención de fraude que lo impida, TzopGo podrá informar al titular de la cuenta sobre la medida aplicada y sus motivos generales.
+
+Las medidas deberán aplicarse respetando los derechos que legalmente correspondan al usuario.
+
+Cuando se trate de una persona trabajadora en plataformas digitales, cualquier medida que afecte su relación laboral deberá sujetarse además a la legislación laboral aplicable y a los procedimientos correspondientes.
+
+---
+
+# 24. PROPIEDAD INTELECTUAL
+
+Todos los elementos que forman parte de TzopGo, incluyendo de manera enunciativa mas no limitativa:
+
+- software;
+- código fuente;
+- código objeto;
+- interfaces;
+- diseño;
+- logotipos;
+- marcas;
+- nombres comerciales;
+- gráficos;
+- bases de datos;
+- funcionalidades;
+- contenidos;
+- elementos visuales;
+- documentación;
+
+son propiedad de TzopGo o de sus respectivos titulares y se encuentran protegidos por la legislación aplicable.
+
+El uso de la plataforma no transmite al usuario ningún derecho de propiedad intelectual.
+
+Queda prohibido, sin autorización expresa:
+
+- copiar;
+- reproducir;
+- modificar;
+- distribuir;
+- comercializar;
+- sublicenciar;
+- realizar ingeniería inversa;
+- extraer código;
+- crear obras derivadas;
+- utilizar elementos de TzopGo para desarrollar servicios sustancialmente similares.
+
+Los derechos pertenecientes a terceros permanecerán en sus respectivos titulares.
+
+---
+
+# 25. CONTENIDO PROPORCIONADO POR LOS USUARIOS
+
+Cuando el usuario proporcione fotografías, textos, referencias, comentarios u otro contenido necesario para utilizar la plataforma, conservará los derechos que legalmente le correspondan.
+
+El usuario autoriza a TzopGo a utilizar dicho contenido únicamente en la medida necesaria para:
+
+- prestar el servicio;
+- gestionar pedidos;
+- facilitar entregas;
+- atender incidencias;
+- mantener registros;
+- cumplir obligaciones legales;
+- proteger la seguridad de la plataforma.
+
+TzopGo no utilizará dicho contenido para finalidades incompatibles con las informadas al usuario.
+
+---
+
+# 26. DISPONIBILIDAD DE COMERCIOS
+
+La disponibilidad de comercios, productos, precios, horarios, inventario y condiciones de venta depende de los comercios participantes.
+
+TzopGo facilita la conexión tecnológica entre los participantes, pero la disponibilidad de determinados productos puede cambiar sin previo aviso debido a circunstancias operativas del comercio.
+
+Los comercios deberán mantener información correcta y actualizada sobre los productos que ofrecen.
+
+TzopGo podrá retirar o limitar la disponibilidad de comercios o productos por razones operativas, legales, de seguridad o cumplimiento normativo.
+
+---
+
+# 27. DISPONIBILIDAD DE LA PLATAFORMA
+
+TzopGo realizará esfuerzos razonables para mantener disponible la plataforma.
+
+Sin embargo, pueden presentarse interrupciones derivadas de:
+
+- mantenimiento;
+- actualizaciones;
+- fallas de internet;
+- proveedores tecnológicos;
+- fallas de infraestructura;
+- problemas de dispositivos;
+- ataques o incidentes de seguridad;
+- caso fortuito;
+- fuerza mayor;
+- circunstancias externas fuera del control razonable de TzopGo.
+
+TzopGo procurará restablecer el funcionamiento cuando la causa se encuentre bajo su control.
+
+---
+
+# 28. RESPONSABILIDAD
+
+TzopGo será responsable de las obligaciones que legalmente le correspondan por sus propios actos y por la operación de los servicios tecnológicos que presta.
+
+Los comercios serán responsables de las obligaciones que legalmente les correspondan respecto de sus productos y actividades comerciales.
+
+Los repartidores serán responsables de las obligaciones que legalmente les correspondan respecto de las actividades que realicen.
+
+Los usuarios serán responsables de la información que proporcionen y del uso que hagan de sus cuentas.
+
+Ninguna disposición de estos Términos pretende excluir o limitar una responsabilidad que legalmente no pueda ser excluida o limitada.
+
+---
+
+# 29. PROTECCIÓN AL CONSUMIDOR
+
+Cuando la operación se encuentre dentro del ámbito de aplicación de la legislación de protección al consumidor, TzopGo cumplirá las obligaciones que legalmente le correspondan.
+
+Antes de realizar una operación, se procurará proporcionar información clara sobre:
+
+- condiciones;
+- precio;
+- cargos;
+- cuota de entrega;
+- forma de pago;
+- condiciones relevantes del pedido.
+
+Los derechos reconocidos al consumidor por la legislación aplicable no podrán considerarse renunciados mediante estos Términos.
+
+En operaciones realizadas mediante medios electrónicos, TzopGo observará las disposiciones aplicables a las transacciones electrónicas y a la protección de los consumidores.
+
+---
+
+# 30. CANCELACIONES
+
+El usuario podrá solicitar la cancelación de un pedido mediante los mecanismos disponibles en la plataforma.
+
+La posibilidad de cancelar un pedido podrá depender del estado en que se encuentre la operación.
+
+Podrán existir circunstancias en las que la cancelación genere consecuencias económicas cuando éstas hayan sido informadas previamente y sean legalmente procedentes.
+
+Cuando la legislación otorgue al consumidor un derecho de cancelación, devolución, reembolso o cualquier otro derecho irrenunciable, éste será respetado.
+
+---
+
+# 31. REEMBOLSOS Y ACLARACIONES
+
+Cuando corresponda un reembolso, devolución o ajuste, TzopGo gestionará la solicitud conforme a:
+
+- las circunstancias de la operación;
+- las condiciones informadas;
+- la legislación aplicable;
+- las responsabilidades correspondientes de cada participante.
+
+TzopGo podrá solicitar información adicional para investigar una reclamación o aclaración.
+
+---
+
+# 32. SEGURIDAD DE LA INFORMACIÓN
+
+TzopGo implementará medidas administrativas, técnicas y físicas razonables de acuerdo con la naturaleza de la información tratada y los riesgos asociados.
+
+Los usuarios deberán proteger sus credenciales de acceso.
+
+Los repartidores deberán proteger especialmente la información que reciban para realizar entregas.
+
+En caso de detectar un incidente de seguridad relacionado con la cuenta, el usuario deberá comunicarlo a TzopGo mediante los medios de contacto disponibles.
+
+---
+
+# 33. PROTECCIÓN DE DATOS PERSONALES
+
+El tratamiento de datos personales realizado por TzopGo se encuentra regulado por el Aviso de Privacidad vigente.
+
+**Aviso de Privacidad:**
+
+[COLOCAR AQUÍ LA URL DEFINITIVA DEL AVISO DE PRIVACIDAD]
+
+La aceptación de estos Términos y Condiciones no sustituye los consentimientos específicos que, en su caso, sean necesarios para determinados tratamientos de datos personales.
+
+El usuario podrá consultar el Aviso de Privacidad para conocer:
+
+- los datos personales tratados;
+- las finalidades;
+- las transferencias;
+- los mecanismos de ejercicio de derechos;
+- los medios de contacto;
+- las medidas aplicables al tratamiento de información.
+
+---
+
+# 34. REGISTROS ELECTRÓNICOS
+
+TzopGo podrá conservar registros electrónicos relacionados con el uso de la plataforma, incluyendo, cuando corresponda:
+
+- creación de cuentas;
+- aceptación de documentos;
+- pedidos;
+- aceptación de pedidos;
+- cuotas;
+- pagos registrados;
+- conexión;
+- desconexión;
+- aceptación de solicitudes;
+- cancelaciones;
+- comunicaciones;
+- incidencias;
+- información técnica necesaria para la seguridad.
+
+Los registros podrán utilizarse para:
+
+- operación;
+- seguridad;
+- atención de reclamaciones;
+- prevención de fraude;
+- cumplimiento legal;
+- acreditación de operaciones.
+
+La conservación y tratamiento de dichos registros estará sujeta a la legislación aplicable y al Aviso de Privacidad.
+
+---
+
+# 35. COMUNICACIONES ELECTRÓNICAS
+
+El usuario acepta que determinadas comunicaciones relacionadas con la operación de la plataforma puedan realizarse por medios electrónicos, incluyendo:
+
+- correo electrónico;
+- notificaciones dentro de la aplicación;
+- mensajes relacionados con pedidos;
+- comunicaciones de seguridad;
+- avisos sobre cambios en la plataforma.
+
+Las comunicaciones comerciales estarán sujetas a las preferencias y derechos que legalmente correspondan al usuario.
+
+---
+
+# 36. MODIFICACIONES A LOS TÉRMINOS
+
+TzopGo podrá actualizar, modificar o complementar estos Términos cuando resulte necesario debido a:
+
+- cambios legales;
+- modificaciones de la plataforma;
+- incorporación de funcionalidades;
+- cambios operativos;
+- medidas de seguridad;
+- cambios en el modelo de prestación del servicio.
+
+La versión actualizada indicará la fecha de modificación.
+
+Cuando legalmente sea necesario obtener una nueva aceptación, ésta será solicitada antes de aplicar las modificaciones correspondientes.
+
+Cuando la legislación permita que una modificación sea aplicable mediante publicación y continuación del uso de la plataforma, TzopGo podrá proceder de esa manera, siempre que se respeten los derechos legalmente reconocidos al usuario.
+
+---
+
+# 37. RELACIÓN CON OTROS DOCUMENTOS
+
+Estos Términos y Condiciones deberán interpretarse conjuntamente con los demás documentos aplicables de TzopGo.
+
+Entre ellos:
+
+- Aviso de Privacidad;
+- Consentimientos específicos;
+- políticas de seguridad;
+- políticas operativas;
+- condiciones particulares de determinadas funcionalidades;
+- contratos o documentos laborales que, en su caso, resulten aplicables.
+
+En caso de existir una disposición legal de carácter obligatorio que resulte incompatible con estos Términos, prevalecerá dicha disposición legal.
+
+---
+
+# 38. LEGISLACIÓN APLICABLE
+
+Estos Términos se regirán e interpretarán conforme a las leyes aplicables de los Estados Unidos Mexicanos.
+
+Cuando corresponda, serán aplicables, entre otras disposiciones:
+
+- legislación civil y mercantil;
+- legislación de protección al consumidor;
+- legislación de protección de datos personales;
+- legislación de propiedad intelectual;
+- legislación laboral;
+- legislación aplicable al comercio electrónico;
+- demás disposiciones mexicanas aplicables a las actividades de TzopGo.
+
+---
+
+# 39. JURISDICCIÓN
+
+Para las controversias que legalmente puedan someterse a jurisdicción pactada, las partes podrán sujetarse a los tribunales competentes que correspondan conforme a la legislación aplicable en el Estado de Chiapas.
+
+Esta disposición no limitará:
+
+- derechos de consumidores;
+- competencia de autoridades administrativas;
+- jurisdicciones irrenunciables;
+- competencias establecidas por legislación federal;
+- derechos laborales;
+- mecanismos de protección establecidos por la legislación aplicable.
+
+---
+
+# 40. CONTACTO
+
+Para dudas, aclaraciones, comentarios, reportes o cuestiones relacionadas con el funcionamiento de TzopGo:
+
+**Correo electrónico:**  
+teamtzopgo@gmail.com
+
+**Razón social:**  
+Tzop Technologies
+
+**Domicilio:**  
+Tuxtla Gutiérrez, Chiapas, MX
+
+**Aviso de Privacidad:**  
+[URL DEFINITIVA DEL AVISO DE PRIVACIDAD]
+
+---
+
+# 41. ENTRADA EN VIGOR
+
+Los presentes Términos y Condiciones entran en vigor a partir del:
+
+**20 de agosto de 2026**
+
+**Versión:** 1.0
+
+---
+
+## DECLARACIÓN DE ACEPTACIÓN
+
+Al seleccionar la opción correspondiente de aceptación, crear una cuenta o utilizar las funcionalidades de TzopGo cuando legalmente resulte procedente, el usuario manifiesta que:
+
+1. Ha tenido acceso a los presentes Términos y Condiciones.
+2. Ha podido consultarlos antes de utilizar la plataforma.
+3. Comprende las condiciones aplicables al uso de TzopGo.
+4. Acepta las disposiciones que le resulten aplicables.
+5. Reconoce que el tratamiento de sus datos personales se encuentra regulado por el Aviso de Privacidad correspondiente.
+
+La aceptación de estos Términos no implica por sí misma el otorgamiento de consentimientos adicionales que legalmente requieran un mecanismo separado.
+
+---
