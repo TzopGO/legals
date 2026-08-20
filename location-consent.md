@@ -50,7 +50,7 @@ El usuario podrá decidir no proporcionar una ubicación; sin embargo, cuando di
 
 El tratamiento de los datos personales del usuario se encuentra sujeto al **Aviso de Privacidad de TzopGo**, disponible en:
 
-**[https://github.com/TzopGO/legals/blob/main/privacy.md]**
+**https://github.com/TzopGO/legals/blob/main/privacy.md**
 
 El Aviso de Privacidad contiene la información relativa al tratamiento de datos personales realizado por TzopGo, incluyendo las finalidades correspondientes, los datos personales tratados, las comunicaciones o transferencias aplicables, los mecanismos para ejercer los derechos del titular y demás información prevista por la legislación aplicable.
 
@@ -78,6 +78,6 @@ TzopGo podrá conservar evidencia electrónica de la aceptación, incluyendo, cu
 
 **Correo electrónico:** [teamtzopgo@gmail.com](mailto:teamtzopgo@gmail.com)
 
-**Aviso de Privacidad:** [https://github.com/TzopGO/legals/blob/main/privacy.md]
+**Aviso de Privacidad:** https://github.com/TzopGO/legals/blob/main/privacy.md
 
 **Versión:** [1.0.2]
