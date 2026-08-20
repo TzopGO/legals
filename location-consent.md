@@ -80,4 +80,4 @@ TzopGo podrá conservar evidencia electrónica de la aceptación, incluyendo, cu
 
 **Aviso de Privacidad:** https://github.com/TzopGO/legals/blob/main/privacy.md
 
-**Versión:** [1.0.2]
+**Versión:** 1.0.2
