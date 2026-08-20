@@ -756,7 +756,7 @@ Tzop Technologies
 Tuxtla Gutiérrez, Chiapas, MX
 
 **Aviso de Privacidad:**  
-[URL DEFINITIVA DEL AVISO DE PRIVACIDAD]
+https://github.com/TzopGO/legals/blob/main/privacy.md
 
 ---
 
