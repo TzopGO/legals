@@ -1,7 +1,7 @@
 # Términos y Condiciones de Uso – TzopGo
 
 **Última actualización:** 20/08/2026  
-**Versión:** 1.0
+**Versión:** 1.0.2
 
 ---
 
