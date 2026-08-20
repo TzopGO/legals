@@ -1,6 +1,6 @@
 # CONSENTIMIENTO PARA EL TRATAMIENTO DE DATOS DE UBICACIÓN – TzopGo
 
-**Última actualización:** [FECHA]
+**Última actualización:** 20/08/2026
 
 Al utilizar la funcionalidad de ubicación de la plataforma **TzopGo** (en adelante, la “Plataforma”) y proporcionar voluntariamente una ubicación mediante la selección de un punto dentro del mapa, el usuario manifiesta que ha tenido acceso al presente documento y al **Aviso de Privacidad de TzopGo**.
 
